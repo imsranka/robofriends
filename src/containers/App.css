@@ -1,0 +1,11 @@
+@font-face {
+font-family: '[free version] Sketch Block Bold';
+font-style: normal;
+font-weight: normal;
+src: local('[free version] Sketch Block Bold'), url('Sketch_Block.woff') format('woff');
+}
+
+h1{
+    font-family:'[free version] Sketch Block Bold';
+    font-weight: 200;
+}
